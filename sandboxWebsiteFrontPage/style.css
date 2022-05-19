@@ -1,0 +1,120 @@
+    .body{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    a{
+        text-decoration: none;
+        color: #30343D;
+    }
+    .div1{
+        width: 100%;
+        height: 30px;
+        background-color: #3F78E1;
+    }
+    #sub1{
+        position: absolute;
+        left: 5%;
+        top: 2%;
+        color: white;
+    }
+    #sub2{
+        position: absolute;
+        left: 67%;
+        top: 2%;
+        color: white;
+    }
+    #sub3{
+        position: absolute;
+        left: 80%;
+        top: 2%;
+        color: white;
+    }
+    li{
+        padding: 40px;
+        display: inline-block;
+        padding-left: 90px;
+    }
+    #button{
+        position: absolute;
+        left: 83%;
+        padding: 10px;
+        text-decoration: none;
+        background-color: #3F78E1;
+        color: white;
+        border: 0px;
+        border-radius: 20px;
+        width: 6%;
+        top: 9.5%;
+    }
+    .nav1{
+        display:inline;
+        padding-left: 90px;
+        padding: 20%;
+    }
+    #st{
+        padding-left: 50px;
+    }
+    .div3{
+        width: 1520px;
+        height: 800px;
+        background-color: white;
+    }
+    #strong{
+        position: absolute;
+        font-size:50px;
+        top: 20%;
+        left: 15%;
+    }
+    #div4{
+        padding-left: 50px;
+        padding-top: 100px;
+        color: #334152;
+    }
+    #img{
+        position: absolute;
+        width: 45%;
+        height: 60%;
+        left: 47%;
+        top: 20%;
+    }
+    #contact_a{
+        color: white;
+        text-decoration: none;
+    }
+
+    #sub4{
+        position: absolute;
+        color: grey;
+        font-size: large;
+        top: 50%;
+        left: 15%;
+    }
+    .btn1{
+        position: absolute;
+        text-decoration: none;
+        background-color: #3F78E1;
+        border: 0px;
+        border-radius: 20px;
+        padding: 10px;
+        width: 7.5%;
+        bottom: 35%;
+        left: 15%;
+    }
+    .btn2{
+        position: absolute;
+        text-decoration: none;
+        background-color: white ;
+        border: 1px solid #3F78E1;
+        border-radius: 20px;
+        padding: 10px;
+        width: 7.5%;
+        bottom: 35%;
+        left: 23%;
+    }
+    #button_a1{
+        text-decoration: none;
+        color: white;
+    }
+    #button_a2{
+        text-decoration: none;
+        color: #3F78E1;
+    }

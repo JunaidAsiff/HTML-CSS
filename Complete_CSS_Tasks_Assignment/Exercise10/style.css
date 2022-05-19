@@ -1,0 +1,42 @@
+    .dropdown{
+        border: 3px solid red;
+        width: 20vw;
+        height: 32vh;
+        padding: 0% 1%;
+    }
+    .listitems{
+        width: fit-content;
+    }
+    .menu{
+        background-color: #225599;
+        color: white;
+        padding: 3% 0%;
+        width: 13vw;
+        font-size: large;
+    }
+    button:hover{
+        background-color: red;   
+    }
+    .dropdownlist li{
+        font-weight: 800;
+        border-bottom: 3px solid #225599;
+        border-left: 3px solid #225599;
+        border-right: 3px solid #225599;
+        height: 3vh;
+        text-decoration: none;
+        text-align: center;
+    }
+    .dropdownlist{
+        text-decoration: none;
+        list-style: none;
+        margin-left: -18%;
+        margin-top: 0%;
+        display: none;
+     }
+    .listitems:hover .dropdownlist{
+        display: block;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    }

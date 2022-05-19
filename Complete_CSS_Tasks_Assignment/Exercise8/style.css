@@ -1,0 +1,25 @@
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    div{
+        width: 50%;
+    }
+    nav{
+        padding: 1% 0% 1% 0%;
+        background-color: #F5DEB4;  
+    }
+    li{
+        display: inline;
+        padding: 0% 3%;
+        font-size: large;
+        font-weight: bolder;
+    }
+    a{
+        text-decoration: none;
+        color: #54287D;
+    }
+    .purchase{
+        padding: 2.5% 2% 2.5% 2%;
+        color: white;
+        background-color: red;
+    }

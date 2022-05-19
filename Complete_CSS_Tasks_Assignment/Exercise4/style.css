@@ -1,0 +1,94 @@
+    @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    /* center{
+        padding: 5%;
+    } */
+    .container{
+        width: 30vw;
+        height: 67vh;
+        /* background-color: black; */
+        /* border: 10px solid black; */
+        display: flex;
+        padding: 50px 2%;
+        text-align: justify;
+        margin: 0 10%;
+        background-image: url('bgimage.png');
+        background-position: center;    
+    }
+    body{
+        font-family: 'Nanum Gothic', sans-serif;
+    }
+    h1{
+       color: #20B2AA ;
+       border: 5px solid red;
+       text-align: end;
+    }
+    .h1p1{
+       color: #20B2AA ;
+       border: 5px solid yellow;
+       text-align: end;
+    }
+    .green{
+        /* background-color: green; */
+        border: 5px solid green ;
+        height: max-content;
+        background-color: white;
+    }
+    .blue{
+        color: #20B2AA ;
+        border: 5px solid blue;
+        background-color: #E8FBFB;
+        padding: 5px;
+        margin: 10px 0 0 0;
+        height: 18vh;
+    }
+    .blue2{
+        color: #20B2AA ;
+        border: 5px solid blue;
+        background-color: #E8FBFB;
+        padding: 5px;
+        margin: 10px 0 0 0;
+        height: 29vh;
+    }
+    .blue1p{
+        display: inline;
+    }
+    .blue2p{
+        display: inline;
+    }
+    .blue1text{
+        color: #BC8F8F;
+        font-size: 16pt;
+        padding-right: 32%;
+        /* display: inline; */
+        /* padding: 0 35% 0% 0%; */
+    }
+    .blue2text{
+        color: #BC8F8F;
+        font-size: 16pt;
+        padding-right: 37%;
+        /* display: inline; */
+        /* padding: 0 35% 0% 0%; */
+    }
+    .blue1{
+        display: inline;
+        border: 5px solid purple;
+    }
+   .img1{
+    /* position: relative; */
+    height: 15vh;
+    float: inline-end;
+    margin-left: 73%;
+    margin-top: -19%;
+    
+   }
+   .img2{
+    /* position: relative; */
+    height: 17vh;
+    float: inline-end;
+    margin-top: -26%;
+    margin-left: 67%;
+   }
